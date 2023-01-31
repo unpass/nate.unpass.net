@@ -8,16 +8,16 @@ description =  "work/personal/contact info"
 +++
 
 ## work
-- [Resume](https://nate.unpass.net/Nathan-Adan-UPDATED.pdf)
-- [Linkedin](https://www.linkedin.com/in/njadan/)
-- [Indeed](https://my.indeed.com/p/nathana-wndiok5)
-- [GitHub](https://github.com/unpass) (wip)
+- [resume](https://nate.unpass.net/Nathan-Adan-UPDATED.pdf)
+- [linkedin](https://www.linkedin.com/in/njadan/)
+- [indeed](https://my.indeed.com/p/nathana-wndiok5)
+- [github](https://github.com/unpass) (wip)
 ## personal
-- [Car stuff](https://unpass.net)
-- [SoundCloud](https://soundcloud.com/dddbbbbb)
-- [Bandcamp](https://nexis.bandcamp.com/) (inactive)
+- [car stuff](https://unpass.net)
+- [soundcloud](https://soundcloud.com/dddbbbbb)
+- [bandcamp](https://nexis.bandcamp.com/) (inactive)
 ## contact
 - [hello@unpass.net](mailto:hello@unpass.net)
-- Discord: nate#6000
+- discord: nate#6000
 
 ### thanks for stopping by!

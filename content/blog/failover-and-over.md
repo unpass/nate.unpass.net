@@ -5,7 +5,7 @@ date = "2023-01-30T04:26:44-08:00"
 #
 # description is optional
 #
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
+description = "figuring out cloudflare's load balancer with linode and ansible"
 
 tags = []
 +++
