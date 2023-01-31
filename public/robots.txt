@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://nate.unpass.net/sitemap.xml

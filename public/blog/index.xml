@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on nathan adan</title>
+    <link>https://nate.unpass.net/blog/</link>
+    <description>Recent content in blog on nathan adan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>copyright © 2022, nathan adan</copyright>
+    <lastBuildDate>Mon, 30 Jan 2023 04:26:44 -0800</lastBuildDate><atom:link href="https://nate.unpass.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>failover and over</title>
+      <link>https://nate.unpass.net/failover-and-over/</link>
+      <pubDate>Mon, 30 Jan 2023 04:26:44 -0800</pubDate>
+      
+      <guid>https://nate.unpass.net/failover-and-over/</guid>
+      <description>hello again! I noticed that CloudFlare has this option for load balancing and thought, &amp;ldquo;Why not use it?&amp;rdquo;
+I&amp;rsquo;ve been spending the past week learning how I can quickly deploy cloud instances for the blog as backup. Ansible has been a great friend for this. Being already familiar with docker-compose yamls, I was able to step into playbooks with a fair amount of confidence. As of writing, the playbook can set up the site, but I&amp;rsquo;m still figuring out how to automate SSL certificates to make CF happy.</description>
+    </item>
+    
+    <item>
+      <title>cloudflare and ssh galore</title>
+      <link>https://nate.unpass.net/cloudflare-and-ssh-galore/</link>
+      <pubDate>Tue, 24 Jan 2023 15:10:47 -0800</pubDate>
+      
+      <guid>https://nate.unpass.net/cloudflare-and-ssh-galore/</guid>
+      <description>Just migrated all the dns records of this site over from Google to CloudFlare and I gotta say, I&amp;rsquo;m really impressed.
+For starters, the less power Google has over me, the better. Plus I don&amp;rsquo;t think it&amp;rsquo;s worth using their &amp;ldquo;domains&amp;rdquo; service outside of the name lease as it&amp;rsquo;s quite featureless. I&amp;rsquo;m not a paid shill for CF but there are so many useful features on the free tier alone</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://nate.unpass.net/about/</link>
+      <pubDate>Mon, 23 Jan 2023 14:53:56 -0800</pubDate>
+      
+      <guid>https://nate.unpass.net/about/</guid>
+      <description>hey, i&amp;rsquo;m nate. I&amp;rsquo;m 22, in L1 support, and am an aspiring sysadmin.
+I grew up fascinated with computers at an early age. In &amp;lsquo;03, my parents got me a Gateway desktop and filled it to the brim with CD-ROM &amp;amp; Shockwave games. A couple of decades, certs, and a degree later, I&amp;rsquo;ve been blessed with the title &amp;ldquo;Family Tech Support&amp;rdquo; (and cursed with a -3/-4 prescription).
+While not the most extroverted person i really do enjoy helping people, and am huge on fine details.</description>
+    </item>
+    
+    <item>
+      <title>links</title>
+      <link>https://nate.unpass.net/links/</link>
+      <pubDate>Thu, 19 Jan 2023 14:08:17 -0800</pubDate>
+      
+      <guid>https://nate.unpass.net/links/</guid>
+      <description>work  Resume Linkedin Indeed GitHub (wip)  personal  Car stuff SoundCloud Bandcamp (inactive)  contact  hello@unpass.net Discord: nate#6000  thanks for stopping by! </description>
+    </item>
+    
+    <item>
+      <title>finally</title>
+      <link>https://nate.unpass.net/finally/</link>
+      <pubDate>Wed, 18 Jan 2023 15:44:33 -0800</pubDate>
+      
+      <guid>https://nate.unpass.net/finally/</guid>
+      <description>the site is finally live! Notes to self
+ Port forward 80/443 Ensure &amp;ldquo;include /etc/nginx/sites-enabled/*;&amp;rdquo; is in nginx.conf. Certbot is very picky about filenames  </description>
+    </item>
+    
+    <item>
+      <title>a checklist</title>
+      <link>https://nate.unpass.net/a-checklist/</link>
+      <pubDate>Fri, 06 Jan 2023 00:47:02 -0800</pubDate>
+      
+      <guid>https://nate.unpass.net/a-checklist/</guid>
+      <description>(updated 24 Jan, 2023)
+Because who needs github&amp;rsquo;s &amp;ldquo;issues&amp;rdquo;
+docker mc server  Documentation in GitHub  Do I want to write it on here?   docker-compose.yml in a github repo View logs outside of ./docker-compose.yml Get RCON console to listen to game chat  hugo-blackbear  Replace nate.unpass.net pages with an example site in readme.md: how to get nav links to work (add blog post)  nate.unpass.net  Add subscribe/rss to /links Use cloud provider for active-passive load balancing (Linode?</description>
+    </item>
+    
+  </channel>
+</rss>

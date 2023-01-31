@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nate.unpass.net/</loc>
+    <lastmod>2023-01-30T04:26:44-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nate.unpass.net/blog/</loc>
+    <lastmod>2023-01-30T04:26:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nate.unpass.net/failover-and-over/</loc>
+    <lastmod>2023-01-30T04:26:44-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nate.unpass.net/cloudflare-and-ssh-galore/</loc>
+    <lastmod>2023-01-24T15:10:47-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nate.unpass.net/about/</loc>
+    <lastmod>2023-01-23T14:53:56-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nate.unpass.net/links/</loc>
+    <lastmod>2023-01-19T14:08:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nate.unpass.net/finally/</loc>
+    <lastmod>2023-01-18T15:44:33-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nate.unpass.net/a-checklist/</loc>
+    <lastmod>2023-01-06T00:47:02-08:00</lastmod>
+  </url>
+  
+</urlset>
