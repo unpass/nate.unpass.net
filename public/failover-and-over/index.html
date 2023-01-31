@@ -34,7 +34,7 @@
 <meta itemprop="description" content="figuring out cloudflare&#39;s load balancer with linode and ansible">
 <meta itemprop="datePublished" content="2023-01-30T04:26:44-08:00" />
 <meta itemprop="dateModified" content="2023-01-30T04:26:44-08:00" />
-<meta itemprop="wordCount" content="228">
+<meta itemprop="wordCount" content="224">
 <meta itemprop="image" content="https://nate.unpass.net/images/share.png"/>
 
 
@@ -262,11 +262,9 @@
 <content>
   <h2 id="hello-again">hello again!</h2>
 <p>I noticed that CloudFlare has this option for load balancing and thought, &ldquo;Why not use it?&rdquo;</p>
-<p>I&rsquo;ve been spending the past week learning how I can quickly deploy cloud instances for the blog as backup. Ansible has been a great friend for this. Being already familiar with docker-compose yamls, I was able to step into playbooks with a fair amount of confidence. As of writing, the playbook can set up the site, but I&rsquo;m still figuring out how to automate SSL certificates to make CF happy.</p>
-<p>As for the cloud hosting aspect, I opted for <a href="https://nate.unpass.net/images/linodedash.png">Linode</a>. I played around with AWS, and while their free tier is very generous with Debian EC2 instancing it&rsquo;s got some caveats. Imagine having to pay for static addressing!</p>
-<p>I&rsquo;ve also heard <a href="https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/">horror stories</a> regarding billing and would rather not take my chances with something as simple as a static site. Especially when $5/month gets you the convenience of Linode&rsquo;s &ldquo;set-it-and-forget-it&rdquo; busines model.</p>
-<p>It&rsquo;s also quite late. I chose to approach the task by just reading the Ansible and Linode docs. I find that I retain information better that way, at the expense of <strong>lots</strong> of trial and error.</p>
-<p>In the meantime, you can check out the playbook <a href="https://github.com/unpass/yamls">here</a>. It&rsquo;s a bit ugly at the moment, but the yaml repo is largely meant for showcasing and critique.</p>
+<p>I&rsquo;ve been spending the past week learning how I can quickly deploy cloud instances for the blog as backup. Ansible has been a great friend for this. Being already familiar with docker-compose yamls, I was able to step into playbooks with a fair amount of confidence. As of writing, the playbook can set up the site, but I&rsquo;m still figuring out how to automate SSL certificates to make CF happy. In the meantime, you can check out the playbook <a href="https://github.com/unpass/yamls">here</a>. It&rsquo;s a bit ugly at the moment, but the yaml repo is largely meant for showcasing and critique.</p>
+<p>As for the cloud hosting aspect, I opted for <a href="https://nate.unpass.net/images/linodedash.png">Linode</a>. I played around with AWS, and while their free tier is very generous with Debian EC2 instancing it&rsquo;s got some caveats. Imagine having to pay for static addressing! I&rsquo;ve also heard <a href="https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/">horror stories</a> regarding billing and would rather not take my chances with something as simple as a static site. Especially when $5/month gets you the convenience of Linode&rsquo;s &ldquo;set-it-and-forget-it&rdquo; business model.</p>
+<p>I hope to share the final product soon. Ansible has been really fun to learn, and I can&rsquo;t wait to use it to grow my homelab beyond simple game server and blog.</p>
 <p>thanks for reading,<br>
 -nate</p>
 

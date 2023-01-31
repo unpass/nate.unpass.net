@@ -16,7 +16,7 @@ I'm 22, in L1 support, and am an aspiring sysadmin.
 
 I grew up fascinated with computers at an early age. In '03, my parents got [me](../images/fridge.jpg) a Gateway desktop and filled it to the brim with CD-ROM & Shockwave games. A couple of decades, certs, and a degree later, I've been blessed with the title "Family Tech Support" (and cursed with a -3/-4 prescription).
 
-While not the most extroverted person i really do enjoy helping people, and am huge on fine details. I crave polish and good craftsmanship and ensure those are reflected in whatever I'm doing. I won't know everything from the knowledge base out the gate, but I'll be damned if a problem isn't solved after I'm done with it.
+While not the most extroverted person I try to be the most insightful, and am huge on fine details. I can spot polish and good craftsmanship when I see it, and ensure those are reflected in my work. I won't know everything from the knowledge base out the gate, but I learn by doing and can approach projects both holisitically and at a granular level.
 
 Other interests include [motorsports](https://youtu.be/3Y2woR8U9fo), design, and game emulation. Outside of consumerism and media consumption, [electronic](https://soundcloud.com/dddbbbbb)/[beat](https://soundcloud.com/unpass/popular-tracks) production and [video editing](https://youtu.be/H4s_2byCURE) make up the rest of my time behind a screen. Pre-2008 was a great time to be creative; the amount of passion and time people put into art inspires my work ethic to this day.
 
@@ -88,7 +88,7 @@ Other:
 ## languages
 ### scripting
 - Bash
-- YAML/INI
+- Markup (Docker Compose, Ansible Playbook)
 - Python, Java (elementary)
 ### web
 - HTML/CSS
