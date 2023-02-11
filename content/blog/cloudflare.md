@@ -1,14 +1,8 @@
-+++
-title = "cloudflare and ssh galore"
-date = "2023-01-24T15:10:47-08:00"
-
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
-tags = []
-+++
+---
+title: "cloudflare and ssh galore"
+date: "2023-01-24T15:10:47-08:00"
+description: "thoughts on switching over to cloudflare"
+---
 
 Just migrated all of the blog's DNS records over from Google to CloudFlare and I gotta say, I'm really impressed.
 
