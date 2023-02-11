@@ -9,11 +9,11 @@
     <copyright>copyright © 2022, nathan adan</copyright>
     <lastBuildDate>Sat, 11 Feb 2023 01:39:27 -0800</lastBuildDate><atom:link href="https://nate.unpass.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>a humbling week</title>
-      <link>https://nate.unpass.net/a-humbling-week/</link>
+      <title>over and out</title>
+      <link>https://nate.unpass.net/over-and-out/</link>
       <pubDate>Sat, 11 Feb 2023 01:39:27 -0800</pubDate>
       
-      <guid>https://nate.unpass.net/a-humbling-week/</guid>
+      <guid>https://nate.unpass.net/over-and-out/</guid>
       <description>A busy and humbling week and a half. Let&amp;rsquo;s get accomplishments out of the way:
  Replaced the default NGINX 404 page (try it out!) Continued work on the Linode playbook  Added CertBot tasks Replaced some copy tasks with synchronize/rsync ones for efficiency   Continued setting up CloudFlare Load Balancing  Added the Linode instance&amp;rsquo;s IP in the failover pool    Now for the humbling part. Lessons learned:</description>
     </item>
