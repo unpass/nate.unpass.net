@@ -50,7 +50,7 @@ Debian homelab:
 - **[nate.unpass.net](https://github.com/unpass/nate.unpass.net)**
 	- NGINX, LetsEncrypt SSL, Hugo
 	- CloudFlare DNS & Reverse Proxy, Linode cloud instances (backup)
-	- [Ansible](https://github.com/unpass.yamls) (cloud instance provisioning)
+	- [Ansible](https://github.com/unpass/yamls) (cloud instance provisioning)
 - **nook.unpass.net** (Minecraft)
 	- [Docker Compose](https://github.com/unpass/yamls), SSH/SFTP
 

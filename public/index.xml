@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>copyright © 2022, nathan adan</copyright>
-    <lastBuildDate>Mon, 30 Jan 2023 04:26:44 -0800</lastBuildDate><atom:link href="https://nate.unpass.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Feb 2023 01:39:27 -0800</lastBuildDate><atom:link href="https://nate.unpass.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>a humbling week</title>
+      <link>https://nate.unpass.net/a-humbling-week/</link>
+      <pubDate>Sat, 11 Feb 2023 01:39:27 -0800</pubDate>
+      
+      <guid>https://nate.unpass.net/a-humbling-week/</guid>
+      <description>A busy and humbling week and a half. Let&amp;rsquo;s get accomplishments out of the way:
+ Replaced the default NGINX 404 page (try it out!) Continued work on the Linode playbook  Added CertBot tasks Replaced some copy tasks with synchronize/rsync ones for efficiency   Continued setting up CloudFlare Load Balancing  Added the Linode instance&amp;rsquo;s IP in the failover pool    Now for the humbling part. Lessons learned:</description>
+    </item>
+    
     <item>
       <title>failover and over</title>
       <link>https://nate.unpass.net/failover-and-over/</link>
@@ -24,8 +34,9 @@ I&amp;rsquo;ve been spending the past week learning how I can quickly deploy clo
       <pubDate>Tue, 24 Jan 2023 15:10:47 -0800</pubDate>
       
       <guid>https://nate.unpass.net/cloudflare-and-ssh-galore/</guid>
-      <description>Just migrated all the dns records of this site over from Google to CloudFlare and I gotta say, I&amp;rsquo;m really impressed.
-For starters, the less power Google has over me, the better. Plus I don&amp;rsquo;t think it&amp;rsquo;s worth using their &amp;ldquo;domains&amp;rdquo; service outside of the name lease as it&amp;rsquo;s quite featureless. I&amp;rsquo;m not a paid shill for CF but there are so many useful features on the free tier alone</description>
+      <description>Just migrated all of the blog&amp;rsquo;s DNS records over from Google to CloudFlare and I gotta say, I&amp;rsquo;m really impressed.
+For starters, the less power Google has over me, the better. Plus I don&amp;rsquo;t think it&amp;rsquo;s worth using their &amp;ldquo;domains&amp;rdquo; services outside of the name lease as it&amp;rsquo;s quite featureless. I&amp;rsquo;m not a paid shill for CF but there are so many useful features on the free tier alone
+ Wayback archiving Basic bot/DDOS protection (I&amp;rsquo;d add a rate limiting method on top of this) Location-based firewall rules Catch-all email addresses for dropping unwanted spam Analytics that don&amp;rsquo;t rely on Google  The only bump along the way was getting LetsEncrypt and CF&amp;rsquo;s &amp;ldquo;full (strict)&amp;rdquo; SSL/TLS mode to get along with each other, but that&amp;rsquo;s what certbot --nginx is for.</description>
     </item>
     
     <item>
@@ -65,8 +76,8 @@ While not the most extroverted person I try to be the most insightful, and am hu
       
       <guid>https://nate.unpass.net/a-checklist/</guid>
       <description>(updated 24 Jan, 2023)
-Because who needs github&amp;rsquo;s &amp;ldquo;issues&amp;rdquo;
-docker mc server  Documentation in GitHub  Do I want to write it on here?   docker-compose.yml in a github repo View logs outside of ./docker-compose.yml Get RCON console to listen to game chat  hugo-blackbear  Replace nate.unpass.net pages with an example site in readme.md: how to get nav links to work (add blog post)  nate.unpass.net  Add subscribe/rss to /links Use cloud provider for active-passive load balancing (Linode?</description>
+Because who needs GitHub&amp;rsquo;s &amp;ldquo;issues&amp;rdquo;
+docker mc server  Documentation in GitHub docker-compose.yml in a repo Get RCON console to listen to game chat  hugo-blackbear  Replace nate.unpass.net pages with an example site In readme.md: how to set up custom nav links (add blog post)  nate.unpass.net  Add subscribe/rss to /links Use cloud provider for active-passive load balancing (Linode? AWS?)  </description>
     </item>
     
   </channel>

@@ -1,8 +1,7 @@
 # hello
 
 22 / East Bay, CA\
-IT support / A+ & Net+ certified\
-ISO jr admin position
+Aspiring SysAdmin
 
 Read more about me [here](https://nate.unpass.net/about).
 

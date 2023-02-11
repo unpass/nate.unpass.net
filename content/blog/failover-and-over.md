@@ -18,8 +18,8 @@ I've been spending the past week learning how I can quickly deploy cloud instanc
 
 As for the cloud hosting aspect, I opted for [Linode](https://nate.unpass.net/images/linodedash.png). I played around with AWS, and while their free tier is very generous with Debian EC2 instancing it's got some caveats. Imagine having to pay for static addressing! I've also heard [horror stories](https://www.reddit.com/r/aws/comments/g1ve18/i_am_charged_60k_on_aws_without_using_anything/) regarding billing and would rather not take my chances with something as simple as a static site. Especially when $5/month gets you the convenience of Linode's "set-it-and-forget-it" business model. 
 
-I hope to share the final product soon. Ansible has been really fun to learn, and I can't wait to use it to grow my homelab beyond simple game server and blog.
+I hope to share the final product soon. Ansible has been really fun to learn, and I can't wait to use it to grow the *nook* lab beyond a simple game server and blog.
 
-thanks for reading,\
+cheers,\
 -nate
 
