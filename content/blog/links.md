@@ -1,11 +1,9 @@
-+++
-
-title = "links"
-date = "2023-01-19T14:08:17-08:00"
-draft = "false"
-description =  "work/personal/contact info"
-
-+++
+---
+title: "links"
+date: "2023-01-19T14:08:17-08:00"
+draft: "false"
+description:  "work/personal/contact info"
+---
 
 ## work
 - [resume](https://nate.unpass.net/Nathan-Adan-UPDATED.pdf)
