@@ -1,14 +1,8 @@
-+++
-title = "about"
-date = "2023-01-23T14:53:56-08:00"
-
-#
-# description is optional
-#
-description = "quick blurb about myself + a career overview"
-
-tags = []
-+++
+---
+title: "about"
+date: "2023-01-23T14:53:56-08:00"
+description: "quick blurb about myself + a career overview"
+---
 
 ## hey, i'm nate.
 
