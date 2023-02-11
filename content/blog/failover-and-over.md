@@ -1,14 +1,8 @@
-+++
-title = "failover and over"
-date = "2023-01-30T04:26:44-08:00"
-
-#
-# description is optional
-#
-description = "figuring out cloudflare's load balancer with linode and ansible"
-
-tags = []
-+++
+---
+title: "failover and over"
+date: "2023-01-30T04:26:44-08:00"
+description: "figuring out cloudflare's load balancer with linode and ansible"
+---
 
 ## hello again!
 
