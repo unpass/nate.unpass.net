@@ -8,16 +8,12 @@
 <link rel="shortcut icon" href="https://nate.unpass.net/favicon.ico" />
 <title>cloudflare and ssh galore | nathan adan</title>
 <meta name="title" content="cloudflare and ssh galore" />
-<meta name="description" content="Just migrated all of the blog&rsquo;s DNS records over from Google to CloudFlare and I gotta say, I&rsquo;m really impressed.
-For starters, the less power Google has over me, the better. Plus I don&rsquo;t think it&rsquo;s worth using their &ldquo;domains&rdquo; services outside of the name lease as it&rsquo;s quite featureless. I&rsquo;m not a paid shill for CF but there are so many useful features on the free tier alone
- Wayback archiving Basic bot/DDOS protection (I&rsquo;d add a rate limiting method on top of this) Location-based firewall rules Catch-all email addresses for dropping unwanted spam Analytics that don&rsquo;t rely on Google  The only bump along the way was getting LetsEncrypt and CF&rsquo;s &ldquo;full (strict)&rdquo; SSL/TLS mode to get along with each other, but that&rsquo;s what certbot --nginx is for." />
+<meta name="description" content="thoughts on switching over to cloudflare" />
 <meta name="keywords" content="" />
 
 
 <meta property="og:title" content="cloudflare and ssh galore" />
-<meta property="og:description" content="Just migrated all of the blog&rsquo;s DNS records over from Google to CloudFlare and I gotta say, I&rsquo;m really impressed.
-For starters, the less power Google has over me, the better. Plus I don&rsquo;t think it&rsquo;s worth using their &ldquo;domains&rdquo; services outside of the name lease as it&rsquo;s quite featureless. I&rsquo;m not a paid shill for CF but there are so many useful features on the free tier alone
- Wayback archiving Basic bot/DDOS protection (I&rsquo;d add a rate limiting method on top of this) Location-based firewall rules Catch-all email addresses for dropping unwanted spam Analytics that don&rsquo;t rely on Google  The only bump along the way was getting LetsEncrypt and CF&rsquo;s &ldquo;full (strict)&rdquo; SSL/TLS mode to get along with each other, but that&rsquo;s what certbot --nginx is for." />
+<meta property="og:description" content="thoughts on switching over to cloudflare" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://nate.unpass.net/cloudflare-and-ssh-galore/" />
 <meta property="og:image" content="https://nate.unpass.net/images/share.png"/>
@@ -30,16 +26,12 @@ For starters, the less power Google has over me, the better. Plus I don&rsquo;t 
 <meta name="twitter:image" content="https://nate.unpass.net/images/share.png"/>
 
 <meta name="twitter:title" content="cloudflare and ssh galore"/>
-<meta name="twitter:description" content="Just migrated all of the blog&rsquo;s DNS records over from Google to CloudFlare and I gotta say, I&rsquo;m really impressed.
-For starters, the less power Google has over me, the better. Plus I don&rsquo;t think it&rsquo;s worth using their &ldquo;domains&rdquo; services outside of the name lease as it&rsquo;s quite featureless. I&rsquo;m not a paid shill for CF but there are so many useful features on the free tier alone
- Wayback archiving Basic bot/DDOS protection (I&rsquo;d add a rate limiting method on top of this) Location-based firewall rules Catch-all email addresses for dropping unwanted spam Analytics that don&rsquo;t rely on Google  The only bump along the way was getting LetsEncrypt and CF&rsquo;s &ldquo;full (strict)&rdquo; SSL/TLS mode to get along with each other, but that&rsquo;s what certbot --nginx is for."/>
+<meta name="twitter:description" content="thoughts on switching over to cloudflare"/>
 
 
 
 <meta itemprop="name" content="cloudflare and ssh galore">
-<meta itemprop="description" content="Just migrated all of the blog&rsquo;s DNS records over from Google to CloudFlare and I gotta say, I&rsquo;m really impressed.
-For starters, the less power Google has over me, the better. Plus I don&rsquo;t think it&rsquo;s worth using their &ldquo;domains&rdquo; services outside of the name lease as it&rsquo;s quite featureless. I&rsquo;m not a paid shill for CF but there are so many useful features on the free tier alone
- Wayback archiving Basic bot/DDOS protection (I&rsquo;d add a rate limiting method on top of this) Location-based firewall rules Catch-all email addresses for dropping unwanted spam Analytics that don&rsquo;t rely on Google  The only bump along the way was getting LetsEncrypt and CF&rsquo;s &ldquo;full (strict)&rdquo; SSL/TLS mode to get along with each other, but that&rsquo;s what certbot --nginx is for.">
+<meta itemprop="description" content="thoughts on switching over to cloudflare">
 <meta itemprop="datePublished" content="2023-01-24T15:10:47-08:00" />
 <meta itemprop="dateModified" content="2023-01-24T15:10:47-08:00" />
 <meta itemprop="wordCount" content="211">

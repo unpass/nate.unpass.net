@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>copyright © 2022, nathan adan</copyright>
-    <lastBuildDate>Sat, 11 Feb 2023 01:39:27 -0800</lastBuildDate><atom:link href="https://nate.unpass.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Apr 2023 15:30:46 -0700</lastBuildDate><atom:link href="https://nate.unpass.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aliexpress pfsense fw mini-review</title>
+      <link>https://nate.unpass.net/aliexpress-pfsense-fw-mini-review/</link>
+      <pubDate>Mon, 10 Apr 2023 15:30:46 -0700</pubDate>
+      
+      <guid>https://nate.unpass.net/aliexpress-pfsense-fw-mini-review/</guid>
+      <description>Hello!
+It&amp;rsquo;s been a while, but after a busy March I&amp;rsquo;ve finally come around adding to the home server. This time, we&amp;rsquo;ll be looking at a firewall I got from AliExpress.
+How I hadn&amp;rsquo;t realized that using an antiquated ISP router to protect an exposed web server is a terrible idea earlier is beyond me. Better late than never! I had played around with pfSense through a VirtualBox network before, mainly as a lab for a Udemy course.</description>
+    </item>
+    
     <item>
       <title>over and out</title>
       <link>https://nate.unpass.net/over-and-out/</link>
