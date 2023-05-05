@@ -6,13 +6,13 @@ description:  "work/personal/contact info"
 ---
 
 ## work
-- [resume](https://nate.unpass.net/Nathan-Adan-UPDATED.pdf)
+- [resume](https://nate.unpass.net/resume.pdf) (updated 05.05.2023)
 - [linkedin](https://www.linkedin.com/in/njadan/)
 - [indeed](https://my.indeed.com/p/nathana-wndiok5)
 - [github](https://github.com/unpass) (wip)
 ## personal
 - [car stuff](https://unpass.net)
-- [soundcloud](https://soundcloud.com/dddbbbbb)
+- [soundcloud](https://soundcloud.com/unpass)
 - [bandcamp](https://nexis.bandcamp.com/) (inactive)
 ## contact
 - [hello@unpass.net](mailto:hello@unpass.net)
