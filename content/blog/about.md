@@ -6,7 +6,7 @@ description: "quick blurb about myself + a career overview"
 
 ## hey, i'm nate.
 
-I'm 22, in L1 support, and am an aspiring sysadmin.
+I'm 22 and a Jr. Windows SysAdmin.
 
 I grew up fascinated with computers at an early age. In '03, my parents got [me](../images/fridge.jpg) a Gateway desktop and filled it to the brim with CD-ROM & Shockwave games. A couple of decades, certs, and a degree later, I've been blessed with the title "Family Tech Support" (and cursed with a -3/-4 prescription).
 
@@ -22,18 +22,23 @@ I'm not the loudest or smartest in the room, but I was taught to shut my mouth a
 
 ### summary
 
-See [resume](../Nathan-Adan-UPDATED.pdf) for more info
+See [resume](../resume.pdf) for more info
 
+- **Junior Windows System Administrator**:
+	- Office, Active Directory/Group Policy user management
+	- Server/workstation deployment & support
+	- Systems auditing
+	- Printer support & other help desk duties
 - **Desktop & Low Voltage Technician**: 
 	- Rack & cable
 	- Power tools
 	- Post-move support
-- **PC / Laptop repair**:
+- **PC / Laptop Technician**:
 	- Hardware repairs
 	- Windows/Linux install scripts 
 	- Break/fix support
 	- Basic warehouse/inventory duties
-- **Live AV**:
+- **Live AV Technician**:
 	- Wirecast/Propresenter
 	- Youtube/Facebook streaming APIs
 	- Analog & digital mixers, ceiling projectors
@@ -45,7 +50,7 @@ Debian homelab:
 	- NGINX, LetsEncrypt SSL, Hugo
 	- CloudFlare DNS & Reverse Proxy, Linode cloud instances (backup)
 	- [Ansible](https://github.com/unpass/yamls) (cloud instance provisioning)
-- **nook.unpass.net** (Minecraft)
+- **nook.unpass.net** (Minecraft server)
 	- [Docker Compose](https://github.com/unpass/yamls), SSH/SFTP
 
 Other:
@@ -85,7 +90,7 @@ Other:
 - Markup (Docker Compose, Ansible Playbook)
 - Python, Java (elementary)
 ### web
-- HTML/CSS
+- HTML/CSS (elementary)
 ### other
 - English, Tagalog (mother), ASL (limited working)
 

@@ -1,7 +1,7 @@
 # hello
 
 22 / East Bay, CA\
-Aspiring SysAdmin
+Jr. Windows SysAdmin
 
 Read more about me [here](https://nate.unpass.net/about).
 
@@ -10,4 +10,4 @@ Hosted on a Debian NUC ("[nook](images/nook.jpg)").\
 Made with Hugo & NGINX.
 
 ## resume?
-You can find it [here](Nathan-Adan-UPDATED.pdf) (updated 01.24.23).
+You can find it [here](resume.pdf) (updated 05.05.23).
