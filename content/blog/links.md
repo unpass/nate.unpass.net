@@ -16,6 +16,6 @@ description:  "work/personal/contact info"
 - [bandcamp](https://nexis.bandcamp.com/) (inactive)
 ## contact
 - [hello@unpass.net](mailto:hello@unpass.net)
-- discord: nate#6000
+- discord: unpass
 
 ### thanks for stopping by!
